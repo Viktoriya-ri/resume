@@ -1,13 +1,33 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
 .about {
-    position: absolute;
-    width: 370px;
-    left: 20px;
-    top: 40px;
-    background-color: #1E2939;
-    color: azure;
-    padding: 15px;
+    font-style: normal;
 }
 
 h1 {
 
+}
+
+.contact {
+
+}
+
+.education {
+
+}
+
+.work {
+    
+}
+
+.aside-bar {
+    background-color: #828FA9;
+    color: ghostwhite;
 }
