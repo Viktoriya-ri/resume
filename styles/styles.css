@@ -1,21 +1,32 @@
 body {
     font-family: "Montserrat", sans-serif;
+    background-color: #f0f0f0;
 }
 
 .main {
     display: flex;
     flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #ffffff;
 }
 
+.right {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+    margin-right: 40px;
+}
 .about {
     font-style: normal;
+
 }
 
 h1 {
 
 }
 
-.contact {
+.dop-contact {
 
 }
 
@@ -30,4 +41,9 @@ h1 {
 .aside-bar {
     background-color: #828FA9;
     color: ghostwhite;
+    padding: 20px 20px;
+}
+
+.contact {
+    
 }
